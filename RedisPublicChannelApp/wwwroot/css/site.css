@@ -1,0 +1,65 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+}
+
+h4{
+    padding:10px 20px;
+    border:1px solid orange;
+    margin-top:5px;
+    cursor:pointer;
+    transition:.3s
+}
+
+h4:hover{
+    opacity:0.5;
+}
+
+.left ,.right{
+    width:50%;
+}
+
+
+#messageform{
+    width:100%;
+    margin-top:30px;
+
+}
+
+#messageform>input{
+    width:80%;
+}
+
+#messageform>button{
+    width:18%;
+}
+
+#messages{
+    background-color:cadetblue;
+    padding:10px 10px 50px 10px;
+    display:flex;
+    flex-direction:column;
+}
+
+.message{
+    border:1px solid #ececec;
+    background-color:mediumspringgreen;
+    display:inline-block;
+    padding:5px 20px;
+    border-radius:5px;
+    margin-bottom:10px;
+}

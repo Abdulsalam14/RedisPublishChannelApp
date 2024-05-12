@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "DNQGmVC1pFKqqCZsVsozgPO6CnTxBDelf66YTMLCfoGMKZUrFYDgp4AkZxVfsR0iRyxj1UDQTEVd6F+1L2lLyw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP\\source\\repos\\RedisPublicChannelApp\\RedisPublicChannelApp\\RedisPublicChannelApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\pipelines.sockets.unofficial\\2.2.8\\pipelines.sockets.unofficial.2.2.8.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\stackexchange.redis\\2.7.33\\stackexchange.redis.2.7.33.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\system.io.pipelines\\5.0.1\\system.io.pipelines.5.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
